@@ -1,1 +1,3 @@
-# DevOpsKoulutus 23.5.2022 Dokumentaatio
+# DevOpsKoulutus 23.5.2022 
+# Anne-Maria Keränen
+# Koulutusdemo 2 

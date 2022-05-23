@@ -1,4 +1,6 @@
-# testikoodi DevOpsKoulutus 23.5.2022
+# DevOpsKoulutus 23.5.2022
+# Anne-Maria Keränen
+# Koulutus demo 1
 
 
 
